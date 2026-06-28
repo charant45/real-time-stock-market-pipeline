@@ -7,11 +7,15 @@ This project implements a real-time stock market data pipeline using AWS S3 and 
 
 Stock market data is generated using Python and the Yahoo Finance API, stored in Amazon S3, processed in Databricks, and visualized using Databricks Dashboards. The pipeline is automated using Databricks Jobs scheduled to run every 5 minutes.
 
+````
+
 ---
 
 ## Architecture
 
 ![Architecture1](architecture/architecture.png)
+
+---
 
 ## Work Flow 
 
