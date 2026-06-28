@@ -11,7 +11,7 @@ Stock market data is generated using Python and the Yahoo Finance API, stored in
 
 ## Architecture
 
-![Architecture](architecture/architecture.png)
+![Architecture1](architecture/architecture.png)
 
 ```text
 Python Producer
